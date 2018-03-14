@@ -1,0 +1,19 @@
+{
+    "name": "qqes/ppsign",
+    "description": "Pub Pri Key Sign",
+    "keywords": ["qqes", "ppsign"],
+    "type": "library",
+    "homepage": "http://www.7724.com",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "QQES_ZH",
+            "homepage": "http://www.7724.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "Qqes\\PPSign\\": "src/"
+        }
+    }
+}
